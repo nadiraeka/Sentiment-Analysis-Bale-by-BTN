@@ -1,4 +1,4 @@
-## Sentiment Analysis Bale by BTN App Reviews Using Fine-Tuning IndoBERT 
+## Sentiment Analysis Bale by BTN App Reviews Using IndoBERT 
 
 ### 📄 Description
 <div align="justify">
